@@ -1,0 +1,9 @@
+{
+	"name": "adfSpotifyily",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a1ae23c3-fedc-4934-bcd7-4add5f6450fb",
+		"tenantId": "7da169d3-0a8b-4263-a8c6-c3029c7b254d"
+	}
+}
